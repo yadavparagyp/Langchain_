@@ -1,0 +1,12 @@
+langchain
+streamlit
+python-dotenv
+langserve
+fastapi
+unicorn
+sse_starlette
+bs4
+pypdf
+chromadb
+wikipedia
+arxiv

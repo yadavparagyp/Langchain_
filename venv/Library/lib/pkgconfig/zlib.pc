@@ -1,0 +1,13 @@
+prefix=C:/Langchain_chatbot/lanchain_practice/venv/Library
+exec_prefix=C:/Langchain_chatbot/lanchain_practice/venv/Library
+libdir=C:/Langchain_chatbot/lanchain_practice/venv/Library/lib
+sharedlibdir=C:/Langchain_chatbot/lanchain_practice/venv/Library/lib
+includedir=C:/Langchain_chatbot/lanchain_practice/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
